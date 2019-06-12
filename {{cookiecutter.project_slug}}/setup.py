@@ -42,7 +42,6 @@ setup(
     author_email='{{ cookiecutter.email }}',
     classifiers=classifiers,
     description="{{ cookiecutter.project_short_description }}",
-    {%- if 'no' not in cookiecutter.command_line_interface|lower %}
     entry_points={
         'console_scripts': [
             '{{ cookiecutter.project_slug }}={{ cookiecutter.project_slug }}.cli:main',
