@@ -3,8 +3,8 @@ Cookiecutter for ECAS JH Authenticator
 ======================================
 
 
-.. image:: https://travis-ci.org/audreyr/cookiecutter-pypackage.svg?branch=master
-    :target: https://travis-ci.org/audreyr/cookiecutter-pypackage     
+.. image:: https://travis-ci.org/statiksof/cookiecutter-ecas.svg?branch=master
+    :target: https://travis-ci.org/statiksof/cookiecutter-ecas     
 
 
 Quickstart
